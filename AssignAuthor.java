@@ -43,7 +43,7 @@ public class AssignAuthor implements IFunction {
 	IWorkItem 					wi;
 
 	/*
-	*	@wi.implements CMI_Project/CMI-588  add source code to work item EL-848 
+	*	@wi.implements CMI_project/CMI-588  add source code to work item EL-848 
 	*       http://localhost/polarion/#/project/CMI_Project/workitems?query=NOT%20HAS_VALUE%3Aresolution
 	*
 	*/
